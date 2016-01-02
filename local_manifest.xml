@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-
-  <remote  name="onyx"
-           fetch="https://github.com/MasterAwesome" />
-
 <remove-project name="platform/prebuilts/python/darwin-x86/2.7.5" />
 <remove-project name="platform/prebuilts/gcc/linux-x86/mips/mips64el-linux-android-4.8" />
 <remove-project name="platform/prebuilts/gcc/linux-x86/mips/mipsel-linux-android-4.8" />
