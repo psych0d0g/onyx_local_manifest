@@ -46,7 +46,8 @@
 <remove-project name="device/generic/common" />
 <remove-project name="device/generic/armv7-a-neon" />
 
+ <project path="device/qcom/common" name="omnirom/android_device_qcom_common" remote="github" revision="android-5.1" />
  <project path="vendor/oppo" name="DonkeyCoyote/proprietary_vendor_oppo" remote="github" revision="android-5.1" />
  <project path="vendor/oppo/onyx" name="psych0d0g/android_vendor_oneplus_onyx" remote="github" revision="master" />
- <project path="device/oppo/onyx" name="psych0d0g/android_device_oneplus_onyx" remote="github" revision="master" />
+ <project path="device/oppo/onyx" name="psych0d0g/android_device_oppo_onyx" remote="github" revision="android-5.1" />
 </manifest>
